@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="./assets/social-preview.svg" alt="AGENTIC CINEMA — project visual" width="100%">
+
+</div>
+
+---
+
 # StudioSync
 
 **Agentic production recovery for film & media — Gemini + Google ADK + ClickHouse MCP**
