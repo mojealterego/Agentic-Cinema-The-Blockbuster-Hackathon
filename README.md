@@ -6,6 +6,15 @@
 
 ---
 
+<!-- MOJEALTEREGO:PROJECT-STATUS:START -->
+> [!IMPORTANT]
+> **MojeAlterego project status:** `PROTOTYPE`  
+> **Domain:** AI / Agents / MCP  
+> **Verification:** Runnable demo-oriented implementation is documented; consequential external actions remain human-gated and production deployment is not claimed.  
+> **Status policy:** [MojeAlterego project status model](https://github.com/mojealterego/mojealterego/blob/main/docs/PROJECT-STATUS.md)
+<!-- MOJEALTEREGO:PROJECT-STATUS:END -->
+
+
 # StudioSync
 
 **Agentic production recovery for film & media — Gemini + Google ADK + ClickHouse MCP**
